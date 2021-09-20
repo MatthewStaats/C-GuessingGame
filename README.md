@@ -1,2 +1,3 @@
 # C-GuessingGame
-A Simple C# Console App Guessing Game. 
+C# Programming I assingment
+A simple C# Console App
